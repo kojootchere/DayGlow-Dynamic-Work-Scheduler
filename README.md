@@ -17,7 +17,7 @@ Whether you need to manage meetings, allocate time for project work, or simply r
 
 ## Screenshot
 
-![DayGlow Dynamic Work Scheduler website screenshot](./assets/images/)
+![DayGlow Dynamic Work Scheduler website screenshot](./assets/images/Dayglow-dynamic-work-scheduler-website-screenshot.jpeg)
 
 ## Link to the Deployed Application
 
